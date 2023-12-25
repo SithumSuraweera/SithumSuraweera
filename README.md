@@ -2,20 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Web+Developer;I+love+Frontend+Development;I'm+a+Freelancer;I'm+a+Entrepreneur&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
-<h3 align="center">A passionate IT student at SLIIT</h3>
+<h3 align="center">If it was easy, everyone would do it!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SithumSuraweera&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
 <br>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN | Kotlin**
 
-- 📝 I regularly write articles on https://sithumsuraweera.blogspot.com/
+- 📝 I regularly write articles on https://medium.com/@sithumsuraweera
 
 - 💬 Ask me about **Web Development | OOP | Java**
 
 - 📫 How to reach me **https://linktr.ee/sithumsuraweera**
 
-- ⚡ Call me as **THRIPLES**
+- 🤪 Fun fact **I am friendly**
 
 <h3 align="center">Connect with me:</h3>
 <br>
@@ -60,13 +60,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=suraweera-AGSS&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SithumSuraweera&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suraweera-AGSS&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SithumSuraweera&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suraweera-AGSS&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SithumSuraweera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
