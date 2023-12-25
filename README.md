@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Guys...+👋;My+name+is+Sithum;I'm+a+2nd+year+undergraduate;I'm+a+Web+Developer;I+love+Frontend+Development;I'm+a+Freelancer;I'm+a+Entrepreneur&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 
-<h3 align="center">If it was easy, everyone would do it!</h3>
+<h2 align="center">If it was easy, everyone would do it!</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SithumSuraweera&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
 <br>
